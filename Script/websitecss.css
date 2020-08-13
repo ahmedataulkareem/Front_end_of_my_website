@@ -1,0 +1,41 @@
+nav {
+	background-color: rgba(55, 206, 188, 0.6)
+}
+
+.topnav-right {
+  padding-left: 300px;
+}
+
+
+.c-space {
+	margin:30px auto;
+}
+
+
+.textal {
+	font-weight:bold;
+	text-align:center;
+	text-transform:upper;
+}
+
+input.button {
+	color: #FFFFFF;
+	background-color:#338FD6;
+	margin: 0px auto;
+}
+
+
+
+
+footer.py-3{
+	margin: auto;
+}
+	
+	
+
+
+
+
+
+
+	
